@@ -1,0 +1,23 @@
+.profile1 {
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 11px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 300px;
+  margin: 0 auto;
+}
+.profile-photo {
+  width: 100%;
+  border-radius: 50%;
+}
+.name {
+  margin-top: 10px;
+  color: #333;
+  text-align: center;
+}
+.address {
+  margin-top: 5px;
+  color: #666;
+  text-align: center;
+}
